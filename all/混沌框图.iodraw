@@ -691,11 +691,14 @@
             <mxPoint x="120" y="349.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="duMjaCJIfid_Od1H96zk-99" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="duMjaCJIfid_Od1H96zk-101" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="715" y="610" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="duMjaCJIfid_Od1H96zk-100" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;`1`&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="620" width="50" height="40" as="geometry" />
+        <mxCell id="duMjaCJIfid_Od1H96zk-99" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="duMjaCJIfid_Od1H96zk-101">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="duMjaCJIfid_Od1H96zk-100" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;`1`&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="duMjaCJIfid_Od1H96zk-101">
+          <mxGeometry y="5" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
