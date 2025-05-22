@@ -592,9 +592,9 @@
         <mxCell id="duMjaCJIfid_Od1H96zk-67" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="705" y="475" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="duMjaCJIfid_Od1H96zk-68" value="" style="group;container=1;" vertex="1" connectable="0" collapsed="1" parent="duMjaCJIfid_Od1H96zk-67">
-          <mxGeometry width="50" height="40" as="geometry">
-            <mxRectangle width="80" height="80" as="alternateBounds" />
+        <mxCell id="duMjaCJIfid_Od1H96zk-68" value="" style="group;container=1;" vertex="1" connectable="0" parent="duMjaCJIfid_Od1H96zk-67">
+          <mxGeometry width="80" height="80" as="geometry">
+            <mxRectangle width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="duMjaCJIfid_Od1H96zk-69" value="" style="group" vertex="1" connectable="0" parent="duMjaCJIfid_Od1H96zk-68">
